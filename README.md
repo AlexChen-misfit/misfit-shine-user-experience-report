@@ -58,7 +58,8 @@ Shine个人认为是目前市面上颜值最高的手环产品，没有之一，
 
 ![Laser drilled micro holes of Misfit](http://www.seeedstudio.com/blog/wp-content/uploads/2014/10/shine7.jpg)
 
-Shine2也采用了同样的铝合金材料，但是感觉工业设计水平降一代除了许多。
+Shine2也采用了同样的铝合金材料，但是感觉工业设计水平降一代除了许多:
+
 1. 虽然二代8mm的厚度比一代更薄，然而更大，这或许是因为对新增模块不得不做的trade-off
 但客观上对喜欢小巧精致的用户来说，吸引力很可能会下降。
 2. 外壳凸起的弧度比一度略有下降，让人感觉比较扁平。
